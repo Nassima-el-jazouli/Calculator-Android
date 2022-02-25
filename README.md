@@ -1,1 +1,6 @@
-# D-veloppemnt-mobile-Ait-abbou-Samir-et-El-jazouli-Nassima
+# Calclatrice using Android
+## Authors
+
+Contributors names
+
+Nassima EL JAZOULI & Samir AIT-ABBOU
