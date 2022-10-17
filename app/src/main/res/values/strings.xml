@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="afficher">Afficher</string>
+    <string name="button">Button</string>
+
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+
+    <string name="addition">+</string>
+    <string name="soustraction">-</string>
+    <string name="produit">x</string>
+    <string name="division">/</string>
+
+    <string name="inverse">1/x</string>
+    <string name="cosinus">Cos</string>
+    <string name="sinus">Sin</string>
+    <string name="tangence">tan</string>
+
+    <string name="egal">=</string>
+    <string name="clear">CE</string>
+
+    <string name="ecran">Entrez une valeur</string>
+</resources>
