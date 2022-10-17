@@ -1,3 +1,3 @@
-# Calclator using Android
+# Calculator using Android
 
 The goal of this application is to develop a simple calculator unsing android.
